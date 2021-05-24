@@ -12,7 +12,7 @@ The following research questions were generated to guide the analyses and were d
     <li>Is the distribution of ACT scores for SGH students different than the distribution of CERT scores?</li>
     <li>Are there correlations between students’ CERT scores and ACT scores?</li>
     <li>Can a predictive model be created using the subsets of the CERT assessment data to predict how a student may have performed on their ACT test or subtest? (If so, is the model strong?</li>
-</li>
+</li><br />
 
 ## Constraints
 It should be noted that the CERT assessment was administered after the real ACT test for the participants, and it was administered under less strict testing environments. This study is limited to less than 400 participants from a single cohort—many records were dropped for certain tests given that a number of students took the ACT but did not take/complete the CERT test. Given the relatively small set of data, any predictive model will likely be severely limited in usefulness or generalizability. Additionally, creating a machine-learning model to work with this data is time-consuming and dependent upon resources. 
