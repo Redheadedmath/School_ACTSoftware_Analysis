@@ -15,7 +15,7 @@ The following research questions were generated to guide the analyses and were d
 </li><br />
 
 ## Constraints
-It should be noted that the CERT assessment was administered after the real ACT test for the participants, and it was administered under less strict testing environments. This study is limited to less than 400 participants from a single cohort—many records were dropped for certain tests given that a number of students took the ACT but did not take/complete the CERT test. Given the relatively small set of data, any predictive model will likely be severely limited in usefulness or generalizability. Additionally, creating a machine-learning model to work with this data is time-consuming and dependent upon resources. 
+It should be noted that the CERT assessment was administered after the real ACT test for the participants, and it was administered under less strict testing environments. This study is limited to less than 400 participants from a single cohort. Many records were dropped for certain tests given that a number of students took the ACT but did not take/complete the CERT test. Initial analyses filled in missing CERT subtest scores with the projected CERT composite score to add more records for analysis. This addition actually led the data to more closely reflect the ACT data. Given the extreme circumstances of this past year, I elected to go with the more restrictive data set in order to be more confident of what resulted from analyses and reduce biases. Given the relatively small set of data, any predictive model will likely be severely limited in usefulness or generalizability. Additionally, creating a machine-learning model to work with this data is time-consuming and dependent upon resources. 
 
 ## Visualizations
 Showcasing the distributions with boxplots and violin plots. 
@@ -23,3 +23,12 @@ Showcasing the distributions with boxplots and violin plots.
     <img src="figures/subtest_breakdown.png" alt="Boxplots" />
     <img src="figures/subtest_breakdown2.png" alt="Violinplots" />
 </p>
+
+## Next Steps
+<ul>
+    <li> Streamline code into a tidy single program for future use.</li>
+    <li> Collect additional data and repeat analyses for validity.</li> 
+    <li> Begin gathering/identifying requisite resources for structuring a ML algortihm to predict student performance on the ACT from their CERT practice assessments.</li>
+    <li> Find additional sets of data for a more diverse set, promote analyses to other schools in district.</li>
+    <li> Long-term: asuming collaboration and additional resources are available, consider formal study for testing predictive model.</li>
+</ul>
