@@ -1,4 +1,4 @@
 # School_ACTSoftware_Analysis
 ## Purpose
 The purpose of this analysis is to compare students’ scores on a CERT practice ACT assessment with their recent ACT scores in order to determine the validity of using the CERT assessment as a predictor of/prep for Siegel High School’s ACT scores. Additionally, this analysis seeks to clarify what, if any, relationship exists between Seigel High School (SGH) student performance on CERT practice ACT assessment and SGH student ACT scores. <br /> <br />
-***Any sensitive information from this report has been removed from all attached documents on this publicly accessible platform.***
+<font size="8">*Any sensitive information from this report has been removed from all attached documents on this publicly accessible platform.*</font>
